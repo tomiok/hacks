@@ -14,3 +14,9 @@ git push origin v0.1.0
 ```bash
 git push origin refs/tags/v0.1.0
 ```
+### Redploy to heroku when no code changes
+
+```bash
+git commit --allow-empty -m "Trigger Heroku deploy after enabling collectstatic"
+git push heroku master
+```
