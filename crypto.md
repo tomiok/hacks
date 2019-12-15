@@ -17,3 +17,8 @@ https://support.coinmarketcap.com/hc/en-us/requests/new
 https://sportsbet.io/es/
 
 https://1xbit.com/en/
+
+
+### Tutorials
+https://www.comprarbitcoins.org/crear-criptomoneda/  => Create crypto from the web page, including wallets.
+
