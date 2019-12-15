@@ -1,4 +1,4 @@
-Adding a middleware for JWT
+### Adding a middleware for JWT
 
 ```go
 package middleware
