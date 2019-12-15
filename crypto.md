@@ -1,4 +1,4 @@
-##All about crypto
+## All about crypto
 ------------------------------
 
 ### Trade
