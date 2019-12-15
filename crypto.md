@@ -3,6 +3,7 @@
 
 ### Trade
 https://coinmarketcap.com/
+
 https://cmc.io
 
 ### Review criteria
