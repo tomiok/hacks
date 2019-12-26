@@ -17,3 +17,5 @@ https://github.com/FaztWeb/golang-chat-socketio
 https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/
 
 https://github.com/gorilla/websocket/tree/c3e18be99d19e6b3e8f1559eea2c161a665c4b6b/examples/chat
+
+https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets
