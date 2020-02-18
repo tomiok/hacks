@@ -2,6 +2,7 @@
 some hacks over the web
 
 ### So far from now
-<li> GIT
-<li> HEROKU
-<li> GO (some specific JWT things)
+<li> Git
+<li> Heroku
+<li> Go
+<li> Shell scripting
