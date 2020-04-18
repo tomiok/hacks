@@ -6,3 +6,4 @@ some hacks over the web
 <li> Heroku
 <li> Go
 <li> Shell scripting
+<li> Docker
