@@ -26,3 +26,26 @@ func randStringRunes(n int) string {
 }
 
 ```
+
+```go
+func Hash(s interface{}) int {
+	var b bytes.Buffer
+	gob.NewEncoder(&b).Encode(s)
+	a :=  b.Bytes()
+	c := 0
+	res := 0
+	for _, bb := range a {
+		res += 31 * c +int(bb)
+		c++
+	}
+	return res
+}
+
+func Test_h(t *testing.T) {
+	fmt.Println(Hash2("hola"))
+	fmt.Println(Hash2(1))
+	fmt.Println(Hash2(struct {
+		name string
+	}{name: "tomas"}))
+}
+```
