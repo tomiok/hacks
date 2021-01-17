@@ -7,4 +7,5 @@ docker system prune -a
 docker run -it -p 27017:27017 --name mongodb -d mongo
 
 ### Connect to the container
-docker exec -it mongodb bash
+* docker exec -it mongodb bash
+  * mongo -host localhost -port 27017
